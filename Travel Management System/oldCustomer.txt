@@ -1,0 +1,28 @@
+
+Customer ID : 1215
+Name : Akshay
+Contact No. : 123456
+Age : 27
+Gender : Male
+Address : Pune
+
+Customer ID : 12
+Name : Shubham
+Contact No. : 2414422
+Age : 23
+Gender : male
+Address : katraj
+
+Customer ID : 123
+Name : Akshay
+Contact No. : 3242342
+Age : 27
+Gender : Male
+Address : pune
+
+Customer ID : 10
+Name : Akshay
+Contact No. : 99999999
+Age : 27
+Gender : Male
+Address : Pune
