@@ -1,0 +1,29 @@
+What is Datatypes?
+        Datatype defines what type of value will be store in variable.
+
+3-types of datatypes in c++ :-
+        1) Basic Datatype
+        2) Derived Datatype
+        3) User-defined Datatype
+
+1) Basic Datatype:-
+                    size            Range
+        • int       4 bytes     -32768 to +32767
+        • char      1 byte      -128 to 127
+        • float     4 bytes     
+        • double    8 bytes
+        • bool      1 byte      True or False
+        • void      No size
+
+2) Derived Datatype:-
+        Datatypes that are derived from the Basic datatype(Primitive).
+        • Array
+        • Function
+        • Pointer
+        • Referance
+
+3) User-defined Datatype:-
+        • Structure
+        • Union
+        • Enum (Enumeration)
+        • Class

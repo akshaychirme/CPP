@@ -1,0 +1,16 @@
+
+
+Oops Concept:-
+    • Class and Object
+    • Access Specifiers
+    • Constructor and Destructor
+    • Friend Function
+    • Friend Class
+
+    Encapsulation
+    Abstraction
+    Inheritance     //Backbone of OOP
+    Polymorphism
+    Abstract Class
+    Template
+    Namespace

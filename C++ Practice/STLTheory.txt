@@ -1,0 +1,52 @@
+Standard Template Library(STL):-
+        • It is a Library of Generic Classes and functions.
+
+Why use STL:- 
+        Reuse - well tested components.
+        Time saving.
+        STL is used because its a good idea not to Reinvent the wheel.
+
+Components of STL:- 
+        1) Containers  - Object which Stores data.
+                       - Use Template Classes
+        2) Algorithems - Procedure to process data.
+                       - Sorting
+                       - Searching
+                       - Use TEmplate functions
+        3) Iterations  - Object which points to an element of a Container.
+                       - Handled just like poiters
+                       - Connects algorithems with containers.
+                       - Iterator moves as instructed by the algorithems.
+
+Containers :- 
+        1) Sequence Containers
+                • Linear Fasion - (1)->(2)->(3)->(4)
+                    :- Vector
+                    :- List
+                    :- Dequeue
+        2) Associative Containers
+                • Direct Access (Tree)
+                    :- Set
+                    :- Multiset
+                    :- Map
+                    :- Multimap
+        3) Derived Containers
+                • Real World Modeling
+                    :- Stack
+                    :- Queue
+                    :- Priority-queue
+
+1) Sequence Containers
+    1> Vector :- Random Access --> Fast
+                 Insertion/Delection In Middle --> Slow
+                 Insertion/Delection at the End --> Fast
+
+    2> List :- Random Access --> Slow
+               Insertion/Delection In Middle --> Fast
+               Insertion/Delection at the End --> Fast
+
+2) Associative Containers
+    • All operations are Fast. (Except Random access)
+
+3) Derived Containers
+    • Depends on Data Structure.
